@@ -4,5 +4,15 @@
 @import "minima";
 
 body {
-    background: red !important;
+  background-image: url('/skills-github-pages/assets/images/i7%20logo.webp') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+.site-header,
+.page-content,
+.site-footer {
+  background-color: rgba(255,255,255,0.8);
 }
